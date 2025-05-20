@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Impact Creating Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning TypeScript<br>⚡ DSA kills me I kill DEV
+👯 I’m looking to collaborate on Impact Creating Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning TypeScript<br>
 
 
 ## 🌐 Socials:
