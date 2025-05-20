@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Impact Creating Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning TypeScript<br>
+👯 I’m looking to collaborate on Impact Creating Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently exploring GoLang and langchain<br>
 
 
 ## 🌐 Socials:
